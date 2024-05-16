@@ -1,11 +1,12 @@
 # general
-handy references
+handy references  
 
 
-filetree
-\lang
---\js
---\python
---\powershell
---\regex
---\bash
+filetree  
+\lang  
+--\js  
+--\python  
+--\powershell  
+--\regex  
+--\bash  
+
